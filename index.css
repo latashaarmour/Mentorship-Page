@@ -2,3 +2,14 @@ h1 {
   color:red;
   text-align:center;
 }
+
+h2 {
+  color:purple;
+  text-align:left;
+  text-format:
+}
+
+ul {
+  list-style:square;
+  padding:5px;
+}
