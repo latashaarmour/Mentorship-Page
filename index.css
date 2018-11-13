@@ -1,12 +1,12 @@
 h1 {
   color:red;
   text-align:center;
+  font-family: sans-serif;
 }
 
 h2 {
   color:purple;
   text-align:left;
-  text-format:
 }
 
 ul {
@@ -17,7 +17,12 @@ ul {
 
 div.position {
   position:static;
+  overflow: scroll;
   margin:bottom;
   padding:5px;
   border:solid;
+}
+
+section {
+
 }
