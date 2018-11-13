@@ -12,4 +12,12 @@ h2 {
 ul {
   list-style:square;
   padding:5px;
+  text-style:bold;
+}
+
+div.position {
+  position:static;
+  margin:bottom;
+  padding:5px;
+  border:solid;
 }
